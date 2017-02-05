@@ -7,3 +7,4 @@ A
 B() {
 echo $AA
 }
+B
