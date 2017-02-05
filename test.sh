@@ -8,3 +8,4 @@ B() {
 echo $AA
 }
 B
+LZD
